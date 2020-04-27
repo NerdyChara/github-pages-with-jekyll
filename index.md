@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm going to use this practice my Github pages skills and learn how to build an website for free. 
